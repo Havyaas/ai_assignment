@@ -1,0 +1,8 @@
+{
+  "name": "Remix NEURAL BREACH: The Cognitive Interrogator",
+  "description": "A cyber-noir cognitive interrogation room game tracking hidden emotional parameters, biometric stress levels, and deception thresholds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
